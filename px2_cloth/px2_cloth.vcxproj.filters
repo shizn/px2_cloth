@@ -21,10 +21,22 @@
     <ClCompile Include="Stream.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MyFluid.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stream.h">
       <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFluid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleFactory.h">
+      <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
